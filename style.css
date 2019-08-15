@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
+    background-color: #FF1493;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+button {
+    background-color:#c9ffd7;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #46fa58;
+	display:inline-block;
+	cursor:pointer;
+	color:#949194;
+	font-family:Arial;
+    font-size:17px;
+    margin-bottom: 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2e2e2d;   
+}
+
+button:hover {
+	background-color:#ccf5b6;
+}
